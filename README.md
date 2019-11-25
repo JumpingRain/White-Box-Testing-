@@ -2,7 +2,7 @@
 
 ## 你需要去了解的
 
-![](C:\Users\JumpingRain\Documents\WebPj\White-Box-Testing-\IMG\1.png)
+![](.\IMG\1.png)
 
 ## 提交方式
 
