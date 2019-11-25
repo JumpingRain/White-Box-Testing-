@@ -2,7 +2,7 @@
 
 ## 你需要去了解的
 
-![](.\IMG\1.png)
+![image](https://github.com/JumpingRain/White-Box-Testing-/blob/master/IMG/1.png)
 
 ## 提交方式
 
