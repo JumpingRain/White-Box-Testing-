@@ -36,7 +36,7 @@ public class HelloWorld {
     	if((a == b) || ((c == d) && (bug(a)))) {
     		 x = 1; 
     	}
-    	e = 1+x;
+    	e = 1/x;
     	return 0;
     }
     public boolean bug(int a) {
